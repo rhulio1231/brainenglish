@@ -1,0 +1,25 @@
+.imagem{
+    display: flex;
+    width: 42px;
+    height: 42px;
+    margin-right: 620px;
+    margin-left: 25px;
+    border-radius: 100%;
+    margin-top: 25px;
+    
+
+}
+
+.imagem img{
+    border-radius: 100%;
+   
+}
+
+.row{
+    display: flex;
+    padding-left: 70px;
+   
+    
+}
+
+
